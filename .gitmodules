@@ -1,0 +1,3 @@
+[submodule "vendor/vmbuilder"]
+	path = vendor/vmbuilder
+	url = https://github.com/hansode/vmbuilder.git
